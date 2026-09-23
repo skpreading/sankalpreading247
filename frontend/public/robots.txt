@@ -1,0 +1,7 @@
+# ReadSpace — allow all crawlers, block admin area from being indexed
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/dashboard
+
+Sitemap: https://readspace.example.com/sitemap.xml
