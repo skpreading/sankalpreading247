@@ -4,4 +4,4 @@ Allow: /
 Disallow: /admin
 Disallow: /admin/dashboard
 
-Sitemap: https://readspace.example.com/sitemap.xml
+Sitemap: https://sankalpreading247.vercel.app/sitemap.xml
